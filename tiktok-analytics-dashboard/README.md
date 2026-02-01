@@ -74,3 +74,25 @@ Potential extensions include:
 - NLP-based comment sentiment analysis
 - Creator-level engagement clustering
 - Time-to-viral dynamics
+
+ ## 📌 Conclusion & Implications
+
+This analysis shows that comment-driven engagement behaves differently from traditional view- or like-based metrics.
+
+Very short (0–15s) and medium-length (30–60s) videos consistently produce higher comment-to-like ratios, suggesting that discussion is triggered either by immediate emotional reactions or by narrative payoff. In contrast, mid-length videos (15–30s) tend to receive views without proportional discussion, indicating more passive consumption. Long-form videos are underrepresented among trending content, limiting conclusions about extended formats.
+
+From a creator perspective, optimizing for comments—not just views—may require intentional prompts or emotionally resonant hooks. From a platform or analytics standpoint, comment-to-like ratios provide a useful signal for identifying high-quality engagement and community interaction.
+
+## ⚠️ Limitations
+
+- Dataset includes only trending videos and may not represent average TikTok content
+- Engagement metrics are static snapshots and do not capture time dynamics
+- Comment sentiment and quality were not analyzed
+- Results may be influenced by TikTok’s recommendation system
+
+## 🔮 Future Work
+
+- Sentiment analysis of comments to distinguish constructive vs reactive engagement
+- Time-based analysis of engagement decay
+- Creator-level engagement consistency metrics
+- Hashtag and topic clustering to isolate content themes
