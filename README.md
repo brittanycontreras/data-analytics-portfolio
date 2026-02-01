@@ -35,22 +35,35 @@ Recent UC Berkeley graduate (August 2025) with a B.A. in Cognitive Science and m
 
 ---
 
-## 📊 Featured Projects
+📊 Featured Projects
+1. 📱 TikTok Creator & Content Performance Analytics
 
-### 1. 📈 E-commerce Product Performance Dashboard
-**Tools:** SQL, Python, Tableau
+Tools: Python (pandas, matplotlib), Jupyter / Colab, GitHub
 
-*In development - launching next week!*
+Analysis of 1,000+ trending TikTok videos to understand what drives high-quality engagement, with a focus on comment behavior rather than views alone. This project simulates how a growth or platform analytics team might evaluate content health, engagement depth, and discussion signals on short-form video platforms.
 
-Interactive Tableau dashboard analyzing 100,000+ e-commerce transactions to monitor seller quality, identify product performance issues, and track delivery metrics. Designed to demonstrate governance and marketplace health monitoring capabilities.
+Key Insights:
 
-**Planned Features:**
-- Seller quality monitoring with automated flagging
-- Product category performance analysis
-- Delivery time trends and geographic analysis
-- Data quality validation and anomaly detection
+Very short (0–15s) and medium (30–60s) videos generate the highest comment-to-like ratios
 
----
+Mid-length videos (15–30s) tend to drive more passive engagement
+
+Long videos are underrepresented among trending content, suggesting discoverability or retention constraints
+
+Core Analyses:
+
+Custom engagement metrics (engagement rate, comment-to-like ratio)
+
+Video length segmentation and comparative analysis
+
+Identification of high-discussion outliers and engagement anomalies
+
+Visualization of engagement patterns across content formats
+
+Why It Matters:
+This analysis highlights how optimizing for views alone can mask content that drives meaningful interaction. For creators and platform teams, comment-driven engagement offers a stronger signal of audience involvement and discussion-worthy content.
+
+📂 Notebook: what_drives_discussion_on_tiktok.ipynb
 
 ### 2. 🤖 Sentiment Analysis & Bias Detection in NLP Models
 **Tools:** Python, TextBlob, VADER, LDA, Matplotlib
