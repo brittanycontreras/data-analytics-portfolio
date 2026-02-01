@@ -81,7 +81,7 @@ Analyzed systematic gender bias in sentiment analysis models by examining emotio
 - Data visualization
 - Algorithmic bias detection
 
-📁 *Full code and documentation coming soon*
+📁 🔗 Repository: https://github.com/Mario-s09/Group-1
 
 ---
 
