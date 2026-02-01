@@ -35,33 +35,33 @@ Recent UC Berkeley graduate (August 2025) with a B.A. in Cognitive Science and m
 
 ---
 
-📊 Featured Projects
-1. 📱 TikTok Creator & Content Performance Analytics
+## 📊 Featured Projects
+### 1. 📱 TikTok Creator & Content Performance Analytics
 
-Tools: Python (pandas, matplotlib), Jupyter / Colab, GitHub
+**Tools:** Python (pandas, matplotlib), Jupyter / Colab, GitHub
 
 Analysis of 1,000+ trending TikTok videos to understand what drives high-quality engagement, with a focus on comment behavior rather than views alone. This project simulates how a growth or platform analytics team might evaluate content health, engagement depth, and discussion signals on short-form video platforms.
 
-Key Insights:
+**Key Insights:**
 
-Very short (0–15s) and medium (30–60s) videos generate the highest comment-to-like ratios
+- Very short (0–15s) and medium (30–60s) videos generate the highest comment-to-like ratios
 
-Mid-length videos (15–30s) tend to drive more passive engagement
+- Mid-length videos (15–30s) tend to drive more passive engagement
 
-Long videos are underrepresented among trending content, suggesting discoverability or retention constraints
+- Long videos are underrepresented among trending content, suggesting discoverability or retention constraints
 
-Core Analyses:
+**Core Analyses:**
 
-Custom engagement metrics (engagement rate, comment-to-like ratio)
+- Custom engagement metrics (engagement rate, comment-to-like ratio)
 
-Video length segmentation and comparative analysis
+- Video length segmentation and comparative analysis
 
-Identification of high-discussion outliers and engagement anomalies
+- Identification of high-discussion outliers and engagement anomalies
 
-Visualization of engagement patterns across content formats
+- Visualization of engagement patterns across content formats
 
-Why It Matters:
-This analysis highlights how optimizing for views alone can mask content that drives meaningful interaction. For creators and platform teams, comment-driven engagement offers a stronger signal of audience involvement and discussion-worthy content.
+**Why It Matters:**
+- This analysis highlights how optimizing for views alone can mask content that drives meaningful interaction. For creators and platform teams, comment-driven engagement offers a stronger signal of audience involvement and discussion-worthy content.
 
 📂 Notebook: what_drives_discussion_on_tiktok.ipynb
 
