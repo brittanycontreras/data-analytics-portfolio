@@ -81,6 +81,10 @@ Analyzed systematic gender bias in sentiment analysis models by examining emotio
 - Data visualization
 - Algorithmic bias detection
 
+- Analyzed linguistic patterns and gendered norms in online text data. 
+Contributed to research design, analytical framing, and interpretation of results 
+alongside a collaborative team.
+
 📁 🔗 Repository: https://github.com/Mario-s09/Group-1
 
 ---
