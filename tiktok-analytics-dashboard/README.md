@@ -74,8 +74,3 @@ Potential extensions include:
 - NLP-based comment sentiment analysis
 - Creator-level engagement clustering
 - Time-to-viral dynamics
-
----
-
-## Status
-✅ Complete — exploratory analysis with clear insights
