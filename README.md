@@ -141,7 +141,7 @@ Bachelor of Arts in Cognitive Science, Minor in Data Science
 - Participated in technical workshops on product analytics, experimentation design, and SQL optimization
 - Engaged in discussions on real-world applications and ethical considerations in data-driven decision-making
 
-**DevOpsDayLA Event Staff Volunteer** | 2024
+**DevOpsDayLA Event Staff Volunteer** | 2025 - Present
 - Supported technical event operations and gained exposure to tech industry practices
 
 **UC Berkeley Cognitive Science Student Association** | 2023 - 2025
@@ -156,7 +156,7 @@ I'm actively seeking data analyst opportunities where I can apply my analytical 
 
 - **Email:** bjcontr12@berkeley.edu
 - **LinkedIn:** [linkedin.com/in/britjosephin](https://linkedin.com/in/britjosephin)
-- **Location:** Berkeley, CA (open to relocation)
+- **Location:** Berkeley, CA & Los Angelea, CA (open to relocation)
 - **Availability:** Immediate (graduated August 2025)
 
 ---
