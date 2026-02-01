@@ -65,16 +65,6 @@ These patterns suggest that discussion is driven either by:
 
 ---
 
-## Limitations & Future Work
-- Trending videos are not representative of all TikTok content
-- Comment sentiment was not analyzed
-- Causality cannot be inferred from observational data
-
-Potential extensions include:
-- NLP-based comment sentiment analysis
-- Creator-level engagement clustering
-- Time-to-viral dynamics
-
  ## 📌 Conclusion & Implications
 
 This analysis shows that comment-driven engagement behaves differently from traditional view- or like-based metrics.
