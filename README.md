@@ -115,13 +115,6 @@ alongside a collaborative team.
 - Conducted root cause analysis on engagement fluctuations, informing acquisition strategy that drove 100+ beta user signups
 - Collaborated with cross-functional teams (product, engineering, marketing) to define success metrics
 
-### Research Assistant (URAP) | UC Berkeley Lab
-*January 2025 - May 2025*
-
-- Designed behavioral experiments measuring decision-making patterns in large language models
-- Analyzed experimental data using Python and R, conducting statistical validation across 500+ sessions
-- Implemented data quality validation checks to ensure integrity for downstream analysis
-
 ### Marketing & BDR Intern | Community Education Partnerships
 *August 2023 - May 2024*
 
@@ -162,6 +155,13 @@ Bachelor of Arts in Cognitive Science, Minor in Data Science
 **UC Berkeley Cognitive Science Student Association** | 2023 - 2025
 - Analyzed reasoning patterns and cognitive biases in AI decision-making using Python workflows
 - Contributed to knowledge-sharing sessions on behavioral research methods
+
+**Research Assistant** | UC Berkeley Lab
+*January 2025 - May 2025*
+
+- Designed behavioral experiments measuring decision-making patterns in large language models
+- Analyzed experimental data using Python and R, conducting statistical validation across 500+ sessions
+- Implemented data quality validation checks to ensure integrity for downstream analysis
 
 ---
 
