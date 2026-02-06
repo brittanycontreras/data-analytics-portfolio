@@ -123,6 +123,14 @@ alongside a collaborative team.
 - Monitored campaign performance metrics and provided regular reporting to leadership
 - Increased program event attendance by 25% through data-driven insights
 
+### UC Berkeley Public Service Center | Peter E. Haas Public Service Leader
+*August 2023 - May 2024*
+
+- Participated in monthly cohort-based leadership seminars (group and one-on-one) focused on advancing public service initiatives
+- Led a Community Education Partnerships project aimed at strengthening engagement between local communities and campus resources
+- Facilitated discussion-based activities on social impact, equity, and civic responsibility to foster deeper campus involvement
+- Collaborated with peers to identify actionable strategies for strengthening Berkeley’s public service ecosystem
+
 ### User Experience Extern | Maybelline New York
 
 - Supported UX research for digital product experiences, conducting user interviews and usability testing
