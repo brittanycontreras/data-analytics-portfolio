@@ -37,7 +37,9 @@ Recent UC Berkeley graduate (August 2025) with a B.A. in Cognitive Science and m
 
 ## 📊 Featured Projects
 
+### 1. Healthcare Access Disparities in Los Angeles County
 
+**Coming Soon**
 
 
 
