@@ -1,11 +1,9 @@
 # Healthcare Access Disparities in Los Angeles County
-### Understanding How Neighborhood Poverty Affects Emergency Care and Recovery Outcomes
+### Analyzing How Neighborhood Income Levels Affect Emergency Care Access and Health Outcomes
 
 ## Background & Motivation
 
-Growing up in Lincoln Heights, Los Angeles, I watched my mother navigate the healthcare system while managing neurological conditions from a car accident. Over the years, her balance and mobility deteriorated, leading to multiple falls, hospitalizations, and surgeries. Our neighborhood had limited access to specialists and rehabilitation services, forcing reliance on emergency care.
-
-This project examines whether her experience reflects broader patterns: **Do low-income LA neighborhoods face systematic barriers to healthcare access, and how does this impact outcomes for residents with chronic conditions?**
+This project examines healthcare access disparities across Los Angeles County neighborhoods. Motivated by observing healthcare challenges in underserved communities, this analysis investigates whether low-income neighborhoods face systematic barriers to healthcare access and how this impacts health outcomes for residents with chronic conditions.
 
 ## Research Questions
 
@@ -27,7 +25,7 @@ This project examines whether her experience reflects broader patterns: **Do low
 1. **Data Collection & Cleaning**: Merging datasets by zip code/census tract
 2. **Geographic Analysis**: Mapping healthcare facilities against poverty rates
 3. **Statistical Analysis**: Calculating correlations between socioeconomic factors and health outcomes
-4. **Comparative Analysis**: Contrasting Lincoln Heights with higher-income LA neighborhoods
+4. **Comparative Analysis**: Comparing healthcare access across different income levels
 
 ## Project Status
 
@@ -62,7 +60,3 @@ This project examines whether her experience reflects broader patterns: **Do low
 - [ ] Perform exploratory data analysis
 - [ ] Build geospatial visualizations
 - [ ] Write final analysis and recommendations
-
----
-
-**Note**: This analysis is dedicated to my mother and the countless families in underserved communities who deserve equitable access to healthcare.
