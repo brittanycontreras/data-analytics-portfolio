@@ -131,11 +131,9 @@ alongside a collaborative team.
 - Increased program event attendance by 25% through data-driven insights
 
 ### User Experience Extern | Maybelline New York
-*May 2022 - August 2022*
 
 - Supported UX research for digital product experiences, conducting user interviews and usability testing
 - Organized qualitative insights, identified user pain points, and contributed data-driven recommendations
-- Collaborated with design and product teams to improve user workflows
 
 ---
 
