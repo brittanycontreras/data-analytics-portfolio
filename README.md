@@ -36,7 +36,20 @@ Recent UC Berkeley graduate (August 2025) with a B.A. in Cognitive Science and m
 ---
 
 ## 📊 Featured Projects
-### 1. 📱 TikTok Creator & Content Performance Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 2. 📱 TikTok Creator & Content Performance Analytics
 
 **Tools:** Python (pandas, matplotlib), Jupyter / Colab, GitHub
 
@@ -65,7 +78,7 @@ Analysis of 1,000+ trending TikTok videos to understand what drives high-quality
 
 📂 Notebook: what_drives_discussion_on_tiktok.ipynb
 
-### 2. 🤖 Sentiment Analysis & Bias Detection in NLP Models
+### 3. 🤖 Sentiment Analysis & Bias Detection in NLP Models
 **Tools:** Python, TextBlob, VADER, LDA, Matplotlib
 
 Analyzed systematic gender bias in sentiment analysis models by examining emotional tone patterns across character mentions in literary texts.
