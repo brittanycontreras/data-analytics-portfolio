@@ -55,7 +55,7 @@ This project examines healthcare access disparities across Los Angeles County ne
 
 ## Next Steps
 
-- [ ] Download LA County health and Census data
+- [X] Download LA County health and Census data
 - [ ] Create data cleaning pipeline
 - [ ] Perform exploratory data analysis
 - [ ] Build geospatial visualizations
