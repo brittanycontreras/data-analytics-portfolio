@@ -115,14 +115,12 @@ alongside a collaborative team.
 - Conducted root cause analysis on engagement fluctuations, informing acquisition strategy that drove 100+ beta user signups
 - Collaborated with cross-functional teams (product, engineering, marketing) to define success metrics
 
-### Research Assistant (URAP) | UC Berkeley Cognitive Science Lab
+### Research Assistant (URAP) | UC Berkeley Lab
 *January 2025 - May 2025*
 
 - Designed behavioral experiments measuring decision-making patterns in large language models
 - Analyzed experimental data using Python and R, conducting statistical validation across 500+ sessions
 - Implemented data quality validation checks to ensure integrity for downstream analysis
-- Presented complex statistical findings to both technical and non-technical audiences
-- Coordinated participant scheduling and fMRI-related data collection workflows
 
 ### Marketing & BDR Intern | Community Education Partnerships
 *August 2023 - May 2024*
@@ -132,7 +130,7 @@ alongside a collaborative team.
 - Monitored campaign performance metrics and provided regular reporting to leadership
 - Increased program event attendance by 25% through data-driven insights
 
-### User Experience Intern | Maybelline New York
+### User Experience Extern | Maybelline New York
 *May 2022 - August 2022*
 
 - Supported UX research for digital product experiences, conducting user interviews and usability testing
@@ -183,7 +181,7 @@ I'm actively seeking data analyst opportunities where I can apply my analytical 
 ## 📌 Current Status
 
 ✅ Available for full-time positions starting immediately  
-🔨 Building portfolio projects (e-commerce dashboard launching next week)  
+🔨 Building portfolio projects (Healthcare Access Disparities in Los Angeles County)  
 📚 Preparing for technical assessments (SQL, Python, statistics)
 
 ---
