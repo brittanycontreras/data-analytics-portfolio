@@ -53,12 +53,12 @@ Unit of analysis: 267 ZIP codes
 Dependent variable: Facilities per 10,000 residents
 Independent variables: Poverty rate, Median household income
 
-Facility density was normalized per capita:
+##Facility density was normalized per capita:
 
 final["facilities_per_10k"] = (
     final["facility_count"] / final["population"]
 ) * 10000
-Regression model:
+##Regression model:
 
 reg_df = final[["facilities_per_10k", "poverty_pct", "median_income"]].dropna()
 
@@ -67,7 +67,7 @@ y = reg_df["facilities_per_10k"]
 
 model = sm.OLS(y, X).fit()
 print(model.summary())
-Because facility density was highly skewed, a log transformation was also tested:
+##Because facility density was highly skewed, a log transformation was also tested:
 
 import numpy as np
 
