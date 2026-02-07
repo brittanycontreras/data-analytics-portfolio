@@ -79,4 +79,68 @@ y = reg_df["log_facilities"]
 
 model_log = sm.OLS(y, X).fit()
 print(model_log.summary())
-'''
+```
+Results
+County-Level Outcomes
+
+Higher poverty counties show modestly higher inpatient mortality.
+
+Median income is negatively associated with mortality.
+
+Socioeconomic indicators explain a meaningful share of variation in mortality across counties.
+
+Interpretation:
+
+Socioeconomic disadvantage is more clearly reflected in severe health outcomes than in infrastructure distribution alone.
+
+ZIP-Level Access (Los Angeles)
+
+Poverty rate does not significantly predict facility density per capita.
+
+Median income shows a small negative association with facility density.
+
+Model explanatory power is modest (R² ≈ 6%).
+
+Facility distribution is highly skewed across ZIP codes.
+Interpretation:
+
+Healthcare infrastructure density at the ZIP level does not strongly align with poverty burden.
+
+Analytical Insight
+
+The contrast between the two models is the core finding:
+
+Socioeconomic gradients are detectable in inpatient mortality.
+
+The same gradients are not strongly observable in facility counts per capita.
+
+This suggests that structural inequality may manifest more clearly in outcomes than in raw facility distribution.
+
+In other words, access quantity alone does not capture equity in health outcomes.
+Limitations
+
+Facility counts do not measure capacity, bed availability, or specialization.
+
+County-level aggregation may mask within-county disparities.
+
+Cross-sectional regression does not imply causation.
+
+Skewed distribution of facilities may require alternative modeling approaches.
+
+Technical Skills Demonstrated
+
+Census API integration
+
+Multi-source data merging
+
+Per-capita normalization
+
+Multicollinearity assessment
+
+Log transformation for skew correction
+
+OLS regression modeling (statsmodels)
+
+Outcome vs access comparative modeling
+
+Structured analytical interpretation
