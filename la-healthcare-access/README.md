@@ -58,3 +58,23 @@ Facility density was normalized per capita:
 final["facilities_per_10k"] = (
     final["facility_count"] / final["population"]
 ) * 10000
+Regression model:
+
+reg_df = final[["facilities_per_10k", "poverty_pct", "median_income"]].dropna()
+
+X = sm.add_constant(reg_df[["poverty_pct", "median_income"]])
+y = reg_df["facilities_per_10k"]
+
+model = sm.OLS(y, X).fit()
+print(model.summary())
+Because facility density was highly skewed, a log transformation was also tested:
+
+import numpy as np
+
+reg_df["log_facilities"] = np.log1p(reg_df["facilities_per_10k"])
+
+X = sm.add_constant(reg_df[["poverty_pct"]])
+y = reg_df["log_facilities"]
+
+model_log = sm.OLS(y, X).fit()
+print(model_log.summary())
