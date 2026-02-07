@@ -67,6 +67,7 @@ y = reg_df["facilities_per_10k"]
 
 model = sm.OLS(y, X).fit()
 print(model.summary())
+
 ##Because facility density was highly skewed, a log transformation was also tested:
 
 import numpy as np
