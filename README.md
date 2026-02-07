@@ -35,21 +35,41 @@ Recent UC Berkeley graduate (August 2025) with a B.A. in Cognitive Science and m
 
 ---
 
-## 📊 Featured Projects
+# 📊 Analytics & Systems Projects
 
-### 1. Healthcare Access Disparities in Los Angeles County
+Below are selected projects focused on structural analysis, engagement modeling, and applied data science across health systems and digital platforms.
 
-**Coming Soon**
+---
 
+## 1️⃣ 🏥 Healthcare Access & Outcome Disparities (California)
 
+**Tools:** Python (pandas, seaborn, statsmodels), Census API, Jupyter, GitHub  
 
+Multi-level analysis evaluating whether healthcare access and inpatient outcomes align with socioeconomic vulnerability across California.
 
+This project compares:
 
+- County-level inpatient mortality outcomes (statewide)
+- ZIP-level healthcare facility density (Los Angeles County)
 
+### Key Insights:
 
+- Higher-poverty counties show modestly higher inpatient mortality rates.
+- Median income is negatively associated with mortality.
+- At the ZIP level, facility density per capita does not strongly track poverty burden.
+- Disparities appear more clearly in outcomes than in infrastructure counts alone.
 
+### Core Analyses:
 
+- Census API integration (poverty rate, median income)
+- Per-capita normalization of healthcare facilities
+- OLS regression modeling with multicollinearity assessment
+- Log transformation to correct skewed distributions
+- Multi-level geographic modeling (county vs ZIP)
 
+### Why It Matters:
+
+Healthcare equity cannot be evaluated through facility counts alone. This analysis demonstrates that socioeconomic gradients are more visible in realized health outcomes than in raw infrastructure distribution, highlighting the complexity of measuring structural inequality.
 
 ### 2. 📱 TikTok Creator & Content Performance Analytics
 
