@@ -79,3 +79,4 @@ y = reg_df["log_facilities"]
 
 model_log = sm.OLS(y, X).fit()
 print(model_log.summary())
+'''
