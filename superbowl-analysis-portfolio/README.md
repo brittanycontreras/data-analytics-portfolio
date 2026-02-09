@@ -60,8 +60,6 @@ I built an **interactive Notion workspace** to showcase advanced database featur
 **Data Analysis:**
 - Python 3.8+
 - pandas - Data manipulation
-- matplotlib - Static visualizations
-- seaborn - Statistical graphics
 - numpy - Numerical computations
 
 **Data Organization:**
