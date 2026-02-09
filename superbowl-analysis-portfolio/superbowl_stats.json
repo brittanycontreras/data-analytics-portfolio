@@ -1,0 +1,161 @@
+{
+  "game_info": {
+    "date": "2026-02-08",
+    "home_team": "New England Patriots",
+    "away_team": "Seattle Seahawks",
+    "home_abbr": "NE",
+    "away_abbr": "SEA",
+    "final_score": {
+      "NE": 13,
+      "SEA": 29
+    }
+  },
+  "scoring_by_quarter": {
+    "Q1": {"NE": 0, "SEA": 3},
+    "Q2": {"NE": 0, "SEA": 6},
+    "Q3": {"NE": 0, "SEA": 3},
+    "Q4": {"NE": 13, "SEA": 17}
+  },
+  "quarterbacks": {
+    "Drake_Maye": {
+      "team": "NE",
+      "completions": 27,
+      "attempts": 43,
+      "completion_pct": 62.8,
+      "yards": 295,
+      "touchdowns": 2,
+      "interceptions": 2,
+      "sacks": 6,
+      "sack_yards": 43,
+      "passer_rating": 79.1,
+      "yards_per_attempt": 5.1
+    },
+    "Sam_Darnold": {
+      "team": "SEA",
+      "completions": 19,
+      "attempts": 38,
+      "completion_pct": 50.0,
+      "yards": 202,
+      "touchdowns": 1,
+      "interceptions": 0,
+      "sacks": 1,
+      "sack_yards": 8,
+      "passer_rating": 74.7,
+      "yards_per_attempt": 5.0
+    }
+  },
+  "team_stats": {
+    "NE": {
+      "total_yards": 331,
+      "rushing_yards": 79,
+      "passing_yards": 295,
+      "first_downs": 18,
+      "turnovers": 3,
+      "time_of_possession": "26:49",
+      "penalties": 3,
+      "penalty_yards": 25,
+      "sacks_allowed": 6,
+      "third_down_conversions": "N/A"
+    },
+    "SEA": {
+      "total_yards": 335,
+      "rushing_yards": 141,
+      "passing_yards": 202,
+      "first_downs": 20,
+      "turnovers": 0,
+      "time_of_possession": "33:11",
+      "penalties": 4,
+      "penalty_yards": 25,
+      "sacks_allowed": 1,
+      "third_down_conversions": "N/A"
+    }
+  },
+  "defense": {
+    "NE": {
+      "sacks": 1,
+      "interceptions": 0,
+      "forced_fumbles": 0,
+      "fumble_recoveries": 0,
+      "passes_defended": 7,
+      "qb_hits": 6,
+      "three_and_outs_forced": 4
+    },
+    "SEA": {
+      "sacks": 6,
+      "interceptions": 2,
+      "int_return_yards": 80,
+      "pick_six": 1,
+      "forced_fumbles": 1,
+      "fumble_recoveries": 1,
+      "passes_defended": 6,
+      "qb_hits": 11,
+      "three_and_outs_forced": 5
+    }
+  },
+  "special_teams": {
+    "jason_myers": {
+      "team": "SEA",
+      "field_goals_made": 5,
+      "field_goals_attempted": 5,
+      "fg_percentage": 100.0,
+      "longest_fg": 41,
+      "points_scored": 15
+    }
+  },
+  "key_plays": [
+    {
+      "quarter": "Q1",
+      "time": "12:02",
+      "description": "J.Myers 33 yard field goal",
+      "score": "NE 0-3 SEA"
+    },
+    {
+      "quarter": "Q2",
+      "time": "11:20",
+      "description": "J.Myers 39 yard field goal",
+      "score": "NE 0-6 SEA"
+    },
+    {
+      "quarter": "Q2",
+      "time": "00:16",
+      "description": "J.Myers 41 yard field goal",
+      "score": "NE 0-9 SEA"
+    },
+    {
+      "quarter": "Q3",
+      "time": "9:17",
+      "description": "J.Myers 41 yard field goal",
+      "score": "NE 0-12 SEA"
+    },
+    {
+      "quarter": "Q4",
+      "time": "13:29",
+      "description": "S.Darnold 16-yard TD pass to A.Barner",
+      "score": "NE 0-19 SEA"
+    },
+    {
+      "quarter": "Q4",
+      "time": "12:33",
+      "description": "D.Maye 35-yard TD pass to M.Hollins",
+      "score": "NE 7-19 SEA"
+    },
+    {
+      "quarter": "Q4",
+      "time": "5:38",
+      "description": "J.Myers 26 yard field goal",
+      "score": "NE 7-22 SEA"
+    },
+    {
+      "quarter": "Q4",
+      "time": "4:37",
+      "description": "PICK-SIX - D.Maye INT returned 45 yards by U.Nwosu",
+      "score": "NE 7-29 SEA"
+    },
+    {
+      "quarter": "Q4",
+      "time": "2:28",
+      "description": "D.Maye 7-yard TD pass to R.Stevenson (2PT failed)",
+      "score": "NE 13-29 SEA"
+    }
+  ]
+}
