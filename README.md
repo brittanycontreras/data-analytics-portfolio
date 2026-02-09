@@ -40,8 +40,20 @@ Recent UC Berkeley graduate (August 2025) with a B.A. in Cognitive Science and m
 Below are selected projects focused on structural analysis, engagement modeling, and applied data science across health systems and digital platforms.
 
 ---
+## 1. 🏈 Super Bowl LX Analysis
+**Tools:** Python • Data Visualization • Notion
+- A comprehensive analysis of Super Bowl LX (Seahawks vs Patriots) featuring:
 
-## 1️⃣ 🏥 Healthcare Access & Outcome Disparities (California)
+### Key Insights:
+- professional data visualizations using Python (matplotlib, seaborn)
+- Interactive Notion workspace with multi-view databases
+- Statistical analysis of game performance metrics
+
+### Key Skills: Python, Data Analysis, Data Visualization, Technical Documentation
+🔗 https://www.notion.so/Super-Bowl-LX-Analysis-Seahawks-29-Patriots-13-2fffcefa65ae80e8b6a4cead230dd260
+
+
+## 2. 🏥 Healthcare Access & Outcome Disparities (California)
 
 **Tools:** Python (pandas, seaborn, statsmodels), Census API, Jupyter, GitHub  
 
@@ -71,7 +83,7 @@ This project compares:
 
 Healthcare equity cannot be evaluated through facility counts alone. This analysis demonstrates that socioeconomic gradients are more visible in realized health outcomes than in raw infrastructure distribution, highlighting the complexity of measuring structural inequality.
 
-### 2. 📱 TikTok Creator & Content Performance Analytics
+### 3. 📱 TikTok Creator & Content Performance Analytics
 
 **Tools:** Python (pandas, matplotlib), Jupyter / Colab, GitHub
 
@@ -100,7 +112,7 @@ Analysis of 1,000+ trending TikTok videos to understand what drives high-quality
 
 📂 Notebook: what_drives_discussion_on_tiktok.ipynb
 
-### 3. 🤖 Sentiment Analysis & Bias Detection in NLP Models
+### 4. 🤖 Sentiment Analysis & Bias Detection in NLP Models
 **Tools:** Python, TextBlob, VADER, LDA, Matplotlib
 
 Analyzed systematic gender bias in sentiment analysis models by examining emotional tone patterns across character mentions in literary texts.
