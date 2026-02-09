@@ -83,7 +83,7 @@ This project compares:
 
 Healthcare equity cannot be evaluated through facility counts alone. This analysis demonstrates that socioeconomic gradients are more visible in realized health outcomes than in raw infrastructure distribution, highlighting the complexity of measuring structural inequality.
 
-### 3. 📱 TikTok Creator & Content Performance Analytics
+## 3. 📱 TikTok Creator & Content Performance Analytics
 
 **Tools:** Python (pandas, matplotlib), Jupyter / Colab, GitHub
 
@@ -112,7 +112,7 @@ Analysis of 1,000+ trending TikTok videos to understand what drives high-quality
 
 📂 Notebook: what_drives_discussion_on_tiktok.ipynb
 
-### 4. 🤖 Sentiment Analysis & Bias Detection in NLP Models
+## 4. 🤖 Sentiment Analysis & Bias Detection in NLP Models
 **Tools:** Python, TextBlob, VADER, LDA, Matplotlib
 
 Analyzed systematic gender bias in sentiment analysis models by examining emotional tone patterns across character mentions in literary texts.
